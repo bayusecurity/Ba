@@ -2,9 +2,9 @@
   "name": "telegram-approval-bot",
   "version": "1.0.0",
   "description": "Telegram Bot dengan Sistem Approval",
-  "main": "bot.js",
+  "main": "Nortxh.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node Nortxh.js"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.61.0"
