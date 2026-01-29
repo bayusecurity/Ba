@@ -1,0 +1,12 @@
+{
+  "name": "telegram-approval-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot dengan Sistem Approval",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
